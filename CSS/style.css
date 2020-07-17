@@ -10,3 +10,15 @@ a {
 h1 {
     color: darkkhaki;
 }
+
+.intro {
+    font-size: 24px;
+}
+
+.earth-title {
+    color: lightgreen;
+}
+
+.mars-title {
+    color: lightsalmon;
+}
